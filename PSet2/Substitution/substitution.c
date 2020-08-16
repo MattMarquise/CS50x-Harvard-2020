@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>
-#include <ctype.h> 
+#include <ctype.h>
 
 bool validate(string key);
 int main(int argc, string argv[])
