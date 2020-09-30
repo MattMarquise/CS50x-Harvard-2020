@@ -1,8 +1,6 @@
 # CS50-Harvard Problem Sets
 This repo contains all my solutions to the problem sets from the Harvard CS50 class. 
 
-NOTE: I have completed this class, I just haven't uploaded all of the problem sets yet. 
-
 # My Certificate of Completion:
 ![Matthew's CS50x Certificate of Completion](https://github.com/MattMarquise/CS50-Harvard/blob/master/Certificate/certificateofcompletion.png)
 
