@@ -1,3 +1,5 @@
+// Coded by: (Github) @MattMarquise For CS50x
+
 #include <math.h>
 #include <cs50.h>
 #include <stdio.h> 
