@@ -1,3 +1,6 @@
+// Coded by: (Github) @MattMarquise 
+// For: CS50x
+
 #include <getopt.h>
 #include <stdio.h>
 #include <stdlib.h>
