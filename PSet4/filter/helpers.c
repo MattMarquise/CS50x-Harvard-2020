@@ -1,3 +1,6 @@
+// Coded by: (Github) @MattMarquise 
+// For: CS50x
+
 #include "helpers.h"
 #include "math.h"
 #include "string.h"
