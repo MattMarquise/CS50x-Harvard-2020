@@ -1,3 +1,6 @@
+// Coded by: (Github) @MattMarquise 
+// For: CS50x
+
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>
