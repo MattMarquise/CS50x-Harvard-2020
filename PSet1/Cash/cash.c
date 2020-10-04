@@ -1,4 +1,5 @@
-// Coded by: (Github) @MattMarquise For CS50x
+// Coded by: (Github) @MattMarquise 
+// For: CS50x
 
 #include <math.h>
 #include <cs50.h>
