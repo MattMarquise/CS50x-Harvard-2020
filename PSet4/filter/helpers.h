@@ -1,3 +1,6 @@
+// Coded by: (Github) @MattMarquise 
+// For: CS50x
+
 #include "bmp.h"
 
 // Convert image to grayscale
