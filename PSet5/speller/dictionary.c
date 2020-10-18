@@ -1,4 +1,5 @@
-//Implements a dictionary's functionality
+// Coded by: (Github) @MattMarquise 
+// For: CS50x
 
 #include <stdbool.h>
 #include <stdio.h>
