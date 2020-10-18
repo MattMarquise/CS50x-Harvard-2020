@@ -20,7 +20,7 @@ node *root = NULL;
 
 void free_nodes(node* trav);
 
-//Returns true if word is in dictionary else false.
+// Returns true if word is in dictionary else false.
 bool check(const char *word)
 {
     node *trav = root;
@@ -60,7 +60,7 @@ bool check(const char *word)
     
     return false;
 }
-//Loads dictionary into memory. Returns true if successful else false.
+// Loads dictionary into memory. Returns true if successful else false.
 
 unsigned int n = 0;
 
@@ -119,7 +119,7 @@ bool load(const char *dictionary)
 }
 
 
-//Returns number of words in dictionary if loaded else 0 if not yet loaded.
+// Returns number of words in dictionary if loaded else 0 if not yet loaded.
 unsigned int size(void)
 {
     if(n != 0)
@@ -132,7 +132,7 @@ unsigned int size(void)
     }
         
 }
-//Unloads dictionary from memory. Returns true if successful else false.
+// Unloads dictionary from memory. Returns true if successful else false.
 bool unload(void)
 {
     node* trav = root;
