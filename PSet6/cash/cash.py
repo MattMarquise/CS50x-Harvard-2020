@@ -1,3 +1,6 @@
+# Coded by: (Github) @MattMarquise 
+# For: CS50x
+
 from cs50 import get_float
 
 # Asks for user input until it receives a valid one
