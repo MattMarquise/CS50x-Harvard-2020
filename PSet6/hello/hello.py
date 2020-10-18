@@ -1,3 +1,6 @@
+# Coded by: (Github) @MattMarquise 
+# For: CS50x
+
 from cs50 import get_string
 
 name = get_string("What is your name?\n")
