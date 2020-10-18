@@ -1,3 +1,6 @@
+# Coded by: (Github) @MattMarquise 
+# For: CS50x
+
 # This program calculates the difficulty of a body of text by assigning it a grade
 from cs50 import get_string
 
