@@ -1,5 +1,5 @@
-// Coded by: (Github) @MattMarquise 
-// For: CS50x
+# Coded by: (Github) @MattMarquise 
+# For: CS50x
 
 from cs50 import get_int
 
