@@ -1,5 +1,7 @@
-// Declares a dictionary's functionality
+// Coded by: (Github) @MattMarquise 
+// For: CS50x
 
+// Declares a dictionary's functionality
 #ifndef DICTIONARY_H
 #define DICTIONARY_H
 
