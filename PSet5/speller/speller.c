@@ -1,3 +1,6 @@
+// Coded by: (Github) @MattMarquise 
+// For: CS50x
+
 #include <ctype.h>
 #include <stdio.h>
 #include <sys/resource.h>
