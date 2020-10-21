@@ -1,3 +1,6 @@
+# Coded by: (Github) @MattMarquise 
+# For: CS50x
+
 # TODO
 from cs50 import SQL
 from csv import reader
