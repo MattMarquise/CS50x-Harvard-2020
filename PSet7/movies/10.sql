@@ -1,3 +1,8 @@
+/* 
+  Coded by: (Github) @MattMarquise 
+  For: CS50x 
+*/
+
 SELECT name from people
 JOIN directors ON people.id = directors.person_id
 JOIN movies ON directors.movie_id = movies.id
