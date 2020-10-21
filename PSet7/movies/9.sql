@@ -1,3 +1,8 @@
+/* 
+  Coded by: (Github) @MattMarquise 
+  For: CS50x 
+*/
+
 SELECT DISTINCT(people.name) from stars
 JOIN people ON stars.person_id = people.id
 JOIN movies ON stars.movie_id = movies.id
