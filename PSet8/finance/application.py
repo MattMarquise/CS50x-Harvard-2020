@@ -1,3 +1,6 @@
+# Coded by: (Github) @MattMarquise 
+# For: CS50x
+
 import os
 
 from cs50 import SQL
