@@ -1,5 +1,6 @@
 // Determines if you should be tested for COVID-19
 // Built by: (Github) @MattMarquise
+// For CS50x
 
 #include <stdio.h>
 #include <stdlib.h>
