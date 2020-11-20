@@ -1,6 +1,7 @@
 # CS50-Harvard Problem Sets
 This repo contains all my solutions to the problem sets from the Harvard CS50 class from PSet1 to my final project. 
-PLEASE BE RESPONSIBLE AND HONEST. DO NOT USE THIS CODE TO QUICKLY SUBMIT ASSIGNMENTS. IT'S NOT RIGHT.
+
+## PLEASE BE RESPONSIBLE AND HONEST. DO NOT USE THIS CODE TO QUICKLY SUBMIT ASSIGNMENTS. IT'S NOT RIGHT.
 
 2020 is the year i took this class so most everything should be up to date unless Harvard has changed their coursework.
 
