@@ -1,7 +1,7 @@
 # CS50-Harvard Problem Sets
 This repo contains all my solutions to the problem sets from the Harvard CS50 class from PSet1 to my final project. 
 
-### PLEASE BE RESPONSIBLE AND HONEST. DO NOT USE MY CODE AS YOUR OWN. IT'S NOT RIGHT.
+### PLEASE BE RESPONSIBLE AND HONEST. DO NOT USE MY CODE AS YOUR OWN. IT'S NOT RIGHT. 
 
 
 * NOTE:
