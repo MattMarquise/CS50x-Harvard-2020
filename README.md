@@ -4,8 +4,8 @@ This repo contains all my solutions to the problem sets from the Harvard CS50 cl
 ### PLEASE BE RESPONSIBLE AND HONEST. DO NOT USE MY CODE AS YOUR OWN. IT'S NOT RIGHT.
 
 
-
-2020 is the year i took this class so most everything should be up to date unless Harvard has changed their coursework.
+* NOTE:
+    2020 is the year i took this class so most everything should be up to date unless Harvard has changed their coursework.
 
 # My Certificate of Completion:
 ![Matthew's CS50x Certificate of Completion](https://github.com/MattMarquise/CS50-Harvard/blob/master/Certificate/certificateofcompletion.png)
